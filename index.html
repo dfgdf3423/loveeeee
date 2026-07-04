@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#1b1037">
+  <title>《尚小噜 ❤️ 王小噜》</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="stars"></div>
+  <div id="heart-particles"></div>
+  <div id="sakura-layer"></div>
+  <div id="fireworks-layer"></div>
+  <div id="ribbon-layer"></div>
+
+  <header class="hero" id="home">
+    <nav class="top-nav">
+      <a href="#home">首页</a>
+      <a href="#story">故事</a>
+      <a href="#gallery">照片</a>
+      <a href="#letter">情书</a>
+    </nav>
+
+    <div class="hero-content reveal">
+      <p class="eyebrow">电影级恋爱纪念网站</p>
+      <h1>尚小噜 ❤️ 王小噜</h1>
+      <p class="subtitle">从 2023-01-30 开始，我们的故事就像星空一样，静静发光。</p>
+      <div class="countdown-card">
+        <h2 id="loveCountdown">我们已经相爱 000 天 00 小时 00 分 00 秒</h2>
+      </div>
+      <a class="scroll-link" href="#story">翻开我们的纪念册</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="story-section reveal" id="story">
+      <div class="section-heading">
+        <p class="eyebrow">我们的故事</p>
+        <h2>每一个瞬间都值得被珍藏</h2>
+      </div>
+      <div class="timeline" id="timeline"></div>
+    </section>
+
+    <section class="gallery-section reveal" id="gallery">
+      <div class="section-heading">
+        <p class="eyebrow">相册时光机</p>
+        <h2>那些温柔、勇敢、让人心动的日子</h2>
+      </div>
+      <div class="photo-wall" id="photoWall"></div>
+    </section>
+
+    <section class="letter-section reveal" id="letter">
+      <div class="letter-card">
+        <p class="eyebrow">致王小噜</p>
+        <h2>给你的一封情书</h2>
+        <p>王小噜，</p>
+        <p>如果把所有喜欢都藏进一句话里，那就是：我想陪你走过每一个晴天和阴天。你是我见过最温柔、最让人想靠近的人，也是我最想认真珍惜的人。谢谢你出现在我的生命里，让平凡的日子也变得像电影一样，光亮而动人。</p>
+        <p>愿我们以后依旧手牵手走过山海，也愿你永远知道，我对你的喜欢，从未减轻，反而越来越深。你是我心里最柔软的秘密，也是我最想守护的未来。</p>
+        <p>爱你，直到漫天星辰都替我们发光。</p>
+        <p class="signature">—— 尚小噜</p>
+      </div>
+    </section>
+
+    <section class="ending-section reveal" id="ending">
+      <div class="ending-card">
+        <p class="final-line">其实，这个网站是尚小噜亲手做给王小噜的。</p>
+        <div class="button-group">
+          <button class="choice-btn good" id="btnGood">超级厉害</button>
+          <button class="choice-btn normal" id="btnNormal">一般般</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal" id="photoModal" aria-hidden="true">
+    <div class="modal-backdrop" data-close="true"></div>
+    <div class="modal-content">
+      <button class="modal-close" id="modalClose" aria-label="关闭">×</button>
+      <img id="modalImage" alt="放大的照片">
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
