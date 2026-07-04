@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#12071d"/>
+  <rect x="140" y="180" width="620" height="760" rx="40" fill="#fce7f3"/>
+  <circle cx="360" cy="470" r="140" fill="#ff7ab6" opacity="0.8"/>
+  <circle cx="560" cy="470" r="140" fill="#9b5cff" opacity="0.78"/>
+  <path d="M220 900c90-120 180-180 260-180 90 0 170 70 250 190" stroke="#ff4f8b" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <text x="450" y="1040" text-anchor="middle" font-size="56" font-family="Segoe UI, Arial, sans-serif" fill="#4b2267">甜蜜时刻</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#1b1037"/>
+  <circle cx="650" cy="260" r="160" fill="#ff9ec4" opacity="0.8"/>
+  <circle cx="250" cy="320" r="180" fill="#9b5cff" opacity="0.75"/>
+  <path d="M250 760c100-150 220-220 350-220 80 0 140 26 220 92-40 160-160 260-300 260-110 0-205-60-270-132z" fill="#fff7fe" opacity="0.95"/>
+  <text x="450" y="1040" text-anchor="middle" font-size="58" font-family="Segoe UI, Arial, sans-serif" fill="#fff">初见的星光</text>
+</svg>

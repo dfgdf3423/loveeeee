@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#0f0719"/>
+  <path d="M100 320c120-150 230-200 390-200 180 0 300 100 320 220-40 20-80 40-120 62-60-74-150-120-250-120-110 0-190 44-290 142" fill="#ffd5e8"/>
+  <path d="M220 780c90-80 170-120 260-120 120 0 220 80 320 220H220z" fill="#ff8ab9" opacity="0.9"/>
+  <text x="450" y="1040" text-anchor="middle" font-size="56" font-family="Segoe UI, Arial, sans-serif" fill="#fff">一起跨年的夜</text>
+</svg>

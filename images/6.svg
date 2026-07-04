@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#080611"/>
+  <circle cx="430" cy="340" r="200" fill="#ffd7e9" opacity="0.95"/>
+  <circle cx="560" cy="430" r="150" fill="#ff7ab6" opacity="0.9"/>
+  <circle cx="340" cy="430" r="150" fill="#9b5cff" opacity="0.85"/>
+  <path d="M220 840c90-110 180-160 260-160 80 0 160 50 250 160" stroke="#fff" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <text x="450" y="1040" text-anchor="middle" font-size="56" font-family="Segoe UI, Arial, sans-serif" fill="#fff">爱的未来</text>
+</svg>

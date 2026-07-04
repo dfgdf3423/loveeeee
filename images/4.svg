@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#13081f"/>
+  <circle cx="300" cy="360" r="170" fill="#ff9dc6" opacity="0.82"/>
+  <circle cx="630" cy="360" r="190" fill="#9b5cff" opacity="0.74"/>
+  <path d="M200 900c110-130 220-200 340-200 120 0 220 70 300 200" stroke="#fff" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <text x="450" y="1040" text-anchor="middle" font-size="54" font-family="Segoe UI, Arial, sans-serif" fill="#ffe9f6">漫天星辰</text>
+</svg>
